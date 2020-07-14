@@ -13,5 +13,5 @@ Code for computing the Word Embedding Association Test (WEAT) is also available.
 * scipy
 * pandas
 
-## Installation
-[Git Large File Storage](https://git-lfs.github.com/) is required in order to download the embeddings.
+## Word Embeddings
+Download the embeddings from [Google Drive](https://drive.google.com/drive/folders/15IZS1DdQYrOaklKmP9tXh14LjVmSPSux?usp=sharing).
